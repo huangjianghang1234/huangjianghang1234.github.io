@@ -3,11 +3,11 @@
   <title>xHang</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://121.40.109.21/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://121.40.109.21/"/>
   <updated>2023-09-10T07:11:03.198Z</updated>
-  <id>http://example.com/</id>
+  <id>http://121.40.109.21/</id>
   
   <author>
     <name>xHang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="http://121.40.109.21/posts/4a17b156.html"/>
+    <id>http://121.40.109.21/posts/4a17b156.html</id>
     <published>2023-09-10T04:33:38.857Z</published>
     <updated>2023-09-10T07:11:03.198Z</updated>
     
