@@ -6,7 +6,7 @@
   <link href="http://blog.xhang168.top/atom.xml" rel="self"/>
   
   <link href="http://blog.xhang168.top/"/>
-  <updated>2023-12-02T07:05:12.001Z</updated>
+  <updated>2024-04-11T08:21:59.838Z</updated>
   <id>http://blog.xhang168.top/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Jpa学习</title>
+    <link href="http://blog.xhang168.top/posts/undefined.html"/>
+    <id>http://blog.xhang168.top/posts/undefined.html</id>
+    <published>2024-04-11T08:20:14.000Z</published>
+    <updated>2024-04-11T08:21:59.838Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="jap"><a href="#jap" class="headerlink" title="jap"></a>jap</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;jap&quot;&gt;&lt;a href=&quot;#jap&quot; class=&quot;headerlink&quot; title=&quot;jap&quot;&gt;&lt;/a&gt;jap&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Quartz</title>
